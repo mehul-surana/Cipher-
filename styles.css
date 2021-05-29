@@ -1,0 +1,42 @@
+.main{
+    text-align:center;
+    margin-top:40px;
+    margin-left: 590px;
+    
+}
+.main1{
+    text-align:justify;
+    margin-top:40px;
+    margin-bottom:50px;
+    margin-left: 710px;
+    border: 2px solid black;width:350px;
+    padding:40px;
+}
+
+.body1{
+    background-image: url('15.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.input1 {
+    border: 1px solid black;
+    width:350px;
+    height:30px;
+   
+   }
+.button1{
+    background-color:#008CBA;
+    color: white;
+     border: none;
+     padding: 5px 10px;
+     border-radius: 4px;
+   
+     
+    
+}
+.lo{
+    text-align: center;
+    font-size:55px;
+}
