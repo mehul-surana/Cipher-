@@ -1,0 +1,53 @@
+body{
+   background-color:black
+}
+ul {
+    list-style-type:none;
+    margin:auto;
+    padding: 0;
+    overflow: hidden;
+    background-color:black;
+  }
+  
+  li {
+    float:left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+
+div.main{
+    
+    display: flex;
+    
+}
+    
+
+  
+  div.container {
+    margin-top:1%;
+    margin:10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:28%;
+    height: 25%;
+    border: 2px solid white;
+    padding:2% 2%;
+    color: white;
+    
+    
+     
+  }
+  .button1{
+    background-color:#008CBA;
+    color: white;
+     border: none;
+     padding:2% 2%;
+     border-radius: 4px;
+  }
